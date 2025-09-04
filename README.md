@@ -28,7 +28,7 @@
   <a href="mailto:[dlatjdgk9731@hs.ac.kr]">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="[GitHub 프로필 링크를 입력하세요]">
+  <a href="[https://github.com/dlatjdgk0000]">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
