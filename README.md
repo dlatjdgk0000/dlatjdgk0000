@@ -4,22 +4,13 @@
 
 ### 🧑‍💻 About Me
 <p>저는 한신대학교에 재학 중인 학생입니다.</p>
-<p><strong>[여기에 자신에 대한 설명을 추가해보세요. 예: 어떤 분야에 관심이 있는지, 무엇을 공부하고 있는지 등]</strong></p>
+<p><strong>[aisw계열]</strong></p>
 
 </div>
 
 <br>
 
-### 🛠️ Tech Stack
-> 주로 사용하는 기술 스택이나 공부 중인 기술을 아이콘으로 표시해보세요.
-> <br>
-> 아래는 예시이며, [shields.io](https://shields.io/)에서 더 많은 아이콘을 찾을 수 있습니다.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <!-- 여기에 다른 기술 스택 아이콘을 추가하세요. -->
-</div>
 
 <br>
 
